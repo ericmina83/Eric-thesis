@@ -6,7 +6,7 @@
 taskkill /IM "PDFXEdit.exe"
 :: Output path
 set file_name=my_ntust_thesis
-set new_file_name=Ze_Hao_Wang-M10415096-Game_Design_Goal_Oriented_Approach_for_Procedural_Content_Generation
+set new_file_name=Jyun_An_Zou-M10515026-PCG_For_Billiard_Game
 set output_path=%~dp0
 :: Remove olds
 del %output_path%%file_name%.pdf
